@@ -6,7 +6,7 @@ Welcome to 10xdev.io
 - **[Clubunit inventory](https://github.com/100xdevio/clubunitinventory)** –  Inventory management for clubs
 
 ## Tech stack
-- <img src="https://www.citypng.com/public/uploads/preview/hd-java-programming-logo-png-701751694771848sm650yaqjt.png" width="40" /> 
+- <img src="https://icon2.cleanpng.com/20180519/fyr/avq03pkpc.webp" width="40" /> 
   [Java 21](https://docs.oracle.com/en/java/javase/21/)
 
 - <img src="https://docs.spring.io/spring-boot/_/img/spring-logo.svg" width="40" /> 
