@@ -1,4 +1,4 @@
-# 10xdev.io
+# 10xdev
 Welcome to teniks/tenix 
 - Engineering and quality driven.
 - Built on 10+ years of experience.
