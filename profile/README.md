@@ -8,7 +8,7 @@ Welcome to 10xdev.io
 ## Techstack
 - [Java 21](https://docs.oracle.com/en/java/javase/21/)
 - <p align="center">
-  <img src="[./assets/logo.png](https://docs.spring.io/spring-boot/_/img/spring-logo.svg)" width="100" height="50" />
+  <img src="https://docs.spring.io/spring-boot/_/img/spring-logo.svg" width="100" height="50" />
 </p>
 - [Spring Boot](https://docs.spring.io/spring-boot/index.html)
 - [Angular](https://v17.angular.io/docs) 
